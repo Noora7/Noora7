@@ -1,3 +1,10 @@
+## Group 12 member
+He Renjie, 
+Huang Yilie, 
+Meng Kejun, 
+Yang Huize,
+Zhou Nan
+
 # 1.Introduction
 To understand how and why attention, which is measured in terms of count of ratings, develops around the new products —— different kinds of  gift card, 4 plots are created by Python to visualize the attention raised during the first 6 months these new products first launched, as well as how it evolved. The timestamped data of the giftcards is collected from Amazon data  (2018 version) which contains reviews (rating, text, and helpfulness) and metadata(descriptions, category information, price, brand, and image features), and links(also viewed/also bought graphs).(J.McAuley, 2019). This study mainly focused on the rating of gift card, price, and product-market category data. The line chart is used to measure the relationship between the trajectory in the count of ratings and time. The distribution of rating times in different price levels and product-market categories is shown in the bar chart. The regression analysis indicates the factors which contribute to the development of consumers’ attention. 
 
@@ -74,9 +81,3 @@ Firstly, the short time span of data selected could make the results unreliable 
 
 
 
-## Group member
-He Renjie, 
-Huang Yilie, 
-Meng Kejun, 
-Yang Huize,
-Zhou Nan
