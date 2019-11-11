@@ -1,4 +1,4 @@
-## Group 12 member
+## Group 12 
 He Renjie, 
 Huang Yilie, 
 Meng Kejun, 
