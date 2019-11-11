@@ -47,8 +47,8 @@ Firstly, the short time span of data selected could make the results unreliable 
 
 
 # References
-Cairo, A. (2012). The functional art. p.62.
-Jianmo Ni, Jiacheng Li, Julian McAuley(2019). Empirical Methods in Natural Language Processing (EMNLP) 
+* Cairo, A. (2012). The functional art. p.62.
+* Jianmo Ni, Jiacheng Li, Julian McAuley(2019). Empirical Methods in Natural Language Processing (EMNLP) 
 
 
 
